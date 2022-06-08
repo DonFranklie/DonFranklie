@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Don Franklie
-- 👀 I’m interested in Software Developing
+- 👀 I’m interested in being a Software Developer
 - 🌱 I’m currently learning Git, HTML and CSS
 - 💞️ I’m looking to collaborate on HTML and CSS projects
 - 📫 You can contact me via my email donfranklie@gmail.com
