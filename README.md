@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Don Franklie
 - 👀 I’m an aspiring Software Developer
-- 🌱 I’m currently learning JAVASCRIPT
+- 🌱 I’m currently building Projects
 - 💞️ I’m looking to collaborate on HTML and CSS projects
 - 📫 You can contact me via my email donfranklie@gmail.com
 
