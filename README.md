@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Franklin makokha
+- 👋 Hello, I’m Franklin Makokha.
 - 👀 I’m an aspiring Software Developer
 - 🌱 I’m currently building Projects as Practice with HTML and SASS
 - 💞️ I’m looking to collaborate on HTML and SASS projects
