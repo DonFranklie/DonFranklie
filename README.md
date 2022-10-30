@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Don Franklie
+- 👋 Hi, I’m Franklin makokha
 - 👀 I’m an aspiring Software Developer
-- 🌱 I’m currently building Projects
-- 💞️ I’m looking to collaborate on HTML and CSS projects
+- 🌱 I’m currently building Projects as Practice with HTML and SASS
+- 💞️ I’m looking to collaborate on HTML and SASS projects
 - 📫 You can contact me via my email donfranklie@gmail.com
 
 <!---
