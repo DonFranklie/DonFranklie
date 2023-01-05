@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Franklin Makokha.
-- 👀 I’m an aspiring Software Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 An aspiring Software Developer
+- 🌱 I’m currently learning Full Stack Software Developmment
 - 💞️ I’m looking to collaborate on HTML and SASS projects
 - 📫 You can contact me via my email makokhafranklyn@gmail.com
 
