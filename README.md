@@ -15,7 +15,7 @@ I'm Franklin Makokha, an enthusiastic and aspiring Software Developer on a journ
 - 📫 Reach out to me via email at [makokhafranklyn@gmail.com](mailto:makokhafranklyn@gmail.com) – I'd love to connect!
 
 ## Connect with Me
-- 🌐 [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/franklin-wafula) | [Twitter](https://twitter.com/donfranklie) | [Portfolio](#)
 
 Excited to embark on this coding adventure together! 🚀✨
 
