@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Franklin Makokha, an enthusiastic and aspiring Software Developer on a journey to master the art of Full Stack Software Development.
+I'm Franklin Makokha, an enthusiastic and on a journey to become a 10x Sofware Engineer.
 
 ## About Me
 - 👀 Exploring the vast world of coding and software development.
