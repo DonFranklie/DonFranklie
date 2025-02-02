@@ -15,7 +15,7 @@ I'm Franklin Makokha, an enthusiastic and on a journey to become a 10x Sofware E
 - 📫 Reach out to me via email at [makokhafranklyn@gmail.com](mailto:makokhafranklyn@gmail.com) – I'd love to connect!
 
 ## Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/franklin-wafula) | [Twitter](https://twitter.com/donfranklie) | [Portfolio](https://franklin.makokha.vercel.app)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/franklin-wafula) | [Twitter](https://twitter.com/donfranklie) | [Portfolio](https://franklinmakokha.vercel.app)
 
 Excited to embark on this coding adventure together! 🚀✨
 
